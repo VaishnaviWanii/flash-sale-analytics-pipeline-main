@@ -50,17 +50,6 @@ Contains:
 -   Region
 -   Discount
 -   Order Details
-
-------------------------------------------------------------------------
-
-## 2️⃣ Azure Storage Account (Data Lake)
-
-Raw data stored in Blob Storage container.
-
-Container: `raw-data`
-
-![Storage](images/storage_account_container.png)
-
 ------------------------------------------------------------------------
 
 ## 3️⃣ Azure Data Factory
