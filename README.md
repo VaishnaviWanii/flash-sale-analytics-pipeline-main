@@ -118,14 +118,6 @@ Metrics include:
 
 ------------------------------------------------------------------------
 
-# 📁 Azure Resource Group
-
-All services deployed inside a single Azure Resource Group.
-
-![Resource Group](images/resource_group.png)
-
-------------------------------------------------------------------------
-
 # 📊 Business Insights
 
 Using this pipeline businesses can:
